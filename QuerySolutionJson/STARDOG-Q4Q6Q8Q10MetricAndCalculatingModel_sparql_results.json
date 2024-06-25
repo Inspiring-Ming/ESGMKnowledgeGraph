@@ -1,0 +1,142 @@
+{
+  "head": {
+    "vars": [
+      "obj_0",
+      "obj_1"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Metric:Me_1"
+        },
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_1"
+        }
+      },
+      {
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Metric:Me_3"
+        },
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_3"
+        }
+      },
+      {
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Metric:Me_4"
+        },
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_4"
+        }
+      },
+      {
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Metric:Me_5"
+        },
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_5"
+        }
+      },
+      {
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Metric:Me_6"
+        },
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_6"
+        }
+      },
+      {
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Metric:Me_7"
+        },
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_7"
+        }
+      },
+      {
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Metric:Me_8"
+        },
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_8"
+        }
+      },
+      {
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Metric:Me_9"
+        },
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_9"
+        }
+      },
+      {
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Metric:Me_10"
+        },
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_10"
+        }
+      },
+      {
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Metric:Me_11"
+        },
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_11"
+        }
+      },
+      {
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Metric:Me_12"
+        },
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_12"
+        }
+      },
+      {
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Metric:Me_13"
+        },
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_13"
+        }
+      },
+      {
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Metric:Me_14"
+        },
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_14"
+        }
+      }
+    ]
+  }
+}

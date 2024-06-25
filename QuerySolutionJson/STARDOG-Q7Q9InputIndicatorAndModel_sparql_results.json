@@ -1,0 +1,332 @@
+{
+  "head": {
+    "vars": [
+      "obj_1",
+      "obj_0"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_1"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_3"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_2"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_3"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_3"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_3"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_4"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_4"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_5"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_5"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_6"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_6"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_7"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_6"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_8"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_7"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_9"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_7"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_10"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_8"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_11"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_8"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_12"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_8"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_13"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_9"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_14"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_9"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_15"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_9"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_16"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_10"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_17"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_10"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_18"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_10"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_19"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_10"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_20"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_11"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_21"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_11"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_22"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_12"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_23"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_12"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_24"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_13"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_25"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_13"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_26"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_14"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_27"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_14"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_28"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_14"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_29"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_14"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_30"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_14"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_31"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_14"
+        }
+      },
+      {
+        "obj_1": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Indicator:Indi_32"
+        },
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:Model:Mod_14"
+        }
+      }
+    ]
+  }
+}

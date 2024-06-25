@@ -1,0 +1,53 @@
+{
+  "head": {
+    "vars": [
+      "obj_0"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:ESGRF:Fra_1"
+        }
+      },
+      {
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:ESGRF:Fra_2"
+        }
+      },
+      {
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:ESGRF:Fra_3"
+        }
+      },
+      {
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:ESGRF:Fra_4"
+        }
+      },
+      {
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:ESGRF:Fra_5"
+        }
+      },
+      {
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:ESGRF:Fra_6"
+        }
+      },
+      {
+        "obj_0": {
+          "type": "uri",
+          "value": "tag:stardog:designer:ESGMKG:data:ESGRF:Fra_7"
+        }
+      }
+    ]
+  }
+}
