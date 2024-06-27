@@ -1,0 +1,18 @@
+# Query Builder Search (SELECT)
+SELECT DISTINCT ?obj_0 ?obj_1
+FROM <tag:stardog:api:context:default>
+FROM <tag:stardog:designer:ESGMKG:data:ESGRF>
+FROM <tag:stardog:designer:ESGMKG:data:Metric>
+FROM <tag:stardog:designer:ESGMKG:data:RC>
+FROM <tag:stardog:designer:ESGMKG:data:Indicator>
+FROM <tag:stardog:designer:ESGMKG:data:Model>
+FROM <tag:stardog:designer:ESGMKG:data:DataSet>
+FROM <tag:stardog:designer:ESGMKG:data:DataSource>
+WHERE {
+  {
+    ?obj_0 a <tag:stardog:designer:ESGMKG:model:Indicator> .
+    ?obj_1 a <tag:stardog:designer:ESGMKG:model:DataSet> .
+    ?obj_0 <tag:stardog:designer:ESGMKG:model:ObtainedFrom> ?obj_1 .
+    ?obj_1 <tag:stardog:designer:ESGMKG:model:FileName> ?dat_0 . ?obj_1 <tag:stardog:designer:ESGMKG:model:FileName> ?dat_1 . FILTER(CONTAINS(STR(?dat_0), STR(?dat_1))) .
+  }
+}
