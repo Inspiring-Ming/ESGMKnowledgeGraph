@@ -6,6 +6,35 @@
 
 ESGMKG is a comprehensive database of ESG (Environmental, Social, and Governance) metrics, available in multiple semantic web formats. This repository includes the source code and data necessary to build the ESGMKG using Stardog.
 
+### Files
+- **ESGMKG.json**: Contains the JSON version of the ESGMKG database.
+- **ESGMKG.rdfxml**: Contains the RDF/XML version of the ESGMKG database.
+- **ESGMKG.ttl**: Contains the Turtle (TTL) version of the ESGMKG database.
+
+### Compressed Packages
+- **ESGMKG.zip**: The entire project package.
+- **ESGMKG_Testing.zip**: A testing package for the project.
+
+### SPARQL Query Files
+These files are used for querying the ESGMKG database:
+- **Q1ApplicableFramework.sparql**
+- **Q2FrameworkAndCategory.sparql**
+- **Q3CategoryAndMetric.sparql**
+- **Q4Q6Q8Q10MetricAndCalculatingModel.sparql**
+- **Q5MetricAndModel.sparql**
+- **Q7Q9InputIndicatorAndModel.sparql**
+- **Q11Datasource.sparql**
+
+### Directories
+- **QuerySolutionJson/**: This folder contains the JSON version of the query solutions.
+- **Result/**: This folder contains the visualization results of the queries.
+- **SPARQL_Queries/**: This folder is intended to store the .sparql files used for querying the ESGMKG database.
+
+### Documentation
+- **README.md**: This file provides an introduction and overview of the repository.
+
+This structure ensures that all necessary files for the ESGMKnowledgeGraph project are well-organized and easily accessible for users.
+
 ## Data Formats
 
 The ESGMKG database is available in the following formats:
