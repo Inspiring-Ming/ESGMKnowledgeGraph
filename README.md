@@ -7,11 +7,14 @@
 ESGMKG is a comprehensive database of ESG (Environmental, Social, and Governance) metrics, available in multiple semantic web formats. This repository includes the source code and data necessary to build the ESGMKG using Stardog.
 
 ### Files
+The ESGMKG database is available in the following formats:
 - **ESGMKG.json**: Contains the JSON version of the ESGMKG database.
 - **ESGMKG.rdfxml**: Contains the RDF/XML version of the ESGMKG database.
 - **ESGMKG.ttl**: Contains the Turtle (TTL) version of the ESGMKG database.
 
+
 ### Compressed Packages
+The zip file included in this repository contains the entire source code for building the ESGMKG on Stardog. Note that the testing version represents an earlier iteration, while ESGMKG is the final version.
 - **ESGMKG.zip**: The entire project package.
 - **ESGMKG_Testing.zip**: A testing package for the project.
 
@@ -26,8 +29,8 @@ These files are used for querying the ESGMKG database:
 - **Q11Datasource.sparql**
 
 ### Directories
-- **QuerySolutionJson/**: This folder contains the JSON version of the query solutions.
-- **Result/**: This folder contains the visualization results of the queries.
+- **QuerySolutionJson/**: This folder contains the JSON version of the query solutions. Query solutions are provided in JSON format based on the results of each query run against the ESGMKG.
+- **Result/**: This folder contains the visualization results of the queries. The visualization results are based on 11 competency questions designed to evaluate the ESGMKG's capabilities.
 - **SPARQL_Queries/**: This folder is intended to store the .sparql files used for querying the ESGMKG database.
 
 ### Documentation
@@ -35,26 +38,6 @@ These files are used for querying the ESGMKG database:
 
 This structure ensures that all necessary files for the ESGMKnowledgeGraph project are well-organized and easily accessible for users.
 
-## Data Formats
-
-The ESGMKG database is available in the following formats:
-- JSON-LD
-- Turtle
-- RDF/XML
-
-## Visualization
-
-The visualization results are based on 11 competency questions designed to evaluate the ESGMKG's capabilities.
-
-## Contents
-
-### Source Code
-
-The zip file included in this repository contains the entire source code for building the ESGMKG on Stardog. Note that the testing version represents an earlier iteration, while ESGMKG is the final version.
-
-### Query Solutions
-
-Query solutions are provided in JSON format, based on the results of each query run against the ESGMKG.
 
 ## How to Use
 
